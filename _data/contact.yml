@@ -1,0 +1,14 @@
+location:
+  address: Street Level, 201 Spencer St, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9195085194046!2d144.9521923!3d-37.815354299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4f0fc3c981%3A0x670b20956218439b!2sCoffee%20Rush!5e0!3m2!1sen!2sau!4v1669617167604!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/coffeerush.melbourne/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0414 832 852
